@@ -4,7 +4,7 @@
 
 An end-to-end analytics project framed as a consulting case, using the public Olist dataset (2016-2018). It covers data cleaning, cohort analysis and a Power BI dashboard, and ends with a sized, evidence-backed recommendation.
 
-![Dashboard preview](images/dashboard_preview.png)
+![Dashboard preview](dashboard.png)
 
 ## Key Findings
 
